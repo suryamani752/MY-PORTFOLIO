@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b984985a.css",
+    "main.js": "/static/js/main.324b1cb3.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/photo with cup.jpeg": "/static/media/photo with cup.39f309b7ad8f45906aaf.jpeg",
+    "static/media/recipe-finder.png": "/static/media/recipe-finder.c150d10dad396a4e05a7.png",
+    "static/media/feed-the-hunger.png": "/static/media/feed-the-hunger.19cf0f0e30c3ccd36291.png",
+    "static/media/suryamani kumar.pdf": "/static/media/suryamani kumar.46dd999a77d99278a52e.pdf",
+    "index.html": "/index.html",
+    "main.b984985a.css.map": "/static/css/main.b984985a.css.map",
+    "main.324b1cb3.js.map": "/static/js/main.324b1cb3.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b984985a.css",
+    "static/js/main.324b1cb3.js"
+  ]
+}
