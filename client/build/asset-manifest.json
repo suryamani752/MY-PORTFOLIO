@@ -1,19 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.b984985a.css",
-    "main.js": "/static/js/main.324b1cb3.js",
+    "main.js": "/static/js/main.ab2cac3f.js",
     "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
     "static/media/photo with cup.jpeg": "/static/media/photo with cup.39f309b7ad8f45906aaf.jpeg",
+    "static/media/photo.jpeg": "/static/media/photo.ea4ebbd2a383989add64.jpeg",
     "static/media/recipe-finder.png": "/static/media/recipe-finder.c150d10dad396a4e05a7.png",
-    "static/media/feed-the-hunger.png": "/static/media/feed-the-hunger.19cf0f0e30c3ccd36291.png",
-    "static/media/suryamani kumar.pdf": "/static/media/suryamani kumar.46dd999a77d99278a52e.pdf",
+    "static/media/library.png": "/static/media/library.f9b01aa20545b2310f54.png",
+    "static/media/Suryamani Kumar - Resume.pdf": "/static/media/Suryamani Kumar - Resume.4cdb58ac20e4c11b2061.pdf",
+    "static/media/doctor.png": "/static/media/doctor.870b4ab638d46d5a6e93.png",
     "index.html": "/index.html",
     "main.b984985a.css.map": "/static/css/main.b984985a.css.map",
-    "main.324b1cb3.js.map": "/static/js/main.324b1cb3.js.map",
+    "main.ab2cac3f.js.map": "/static/js/main.ab2cac3f.js.map",
     "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b984985a.css",
-    "static/js/main.324b1cb3.js"
+    "static/js/main.ab2cac3f.js"
   ]
 }
