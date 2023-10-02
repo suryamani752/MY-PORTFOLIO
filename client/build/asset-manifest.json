@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.b984985a.css",
-    "main.js": "/static/js/main.ab2cac3f.js",
+    "main.js": "/static/js/main.6c6e850b.js",
     "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
     "static/media/photo with cup.jpeg": "/static/media/photo with cup.39f309b7ad8f45906aaf.jpeg",
     "static/media/photo.jpeg": "/static/media/photo.ea4ebbd2a383989add64.jpeg",
     "static/media/recipe-finder.png": "/static/media/recipe-finder.c150d10dad396a4e05a7.png",
     "static/media/library.png": "/static/media/library.f9b01aa20545b2310f54.png",
-    "static/media/Suryamani Kumar - Resume.pdf": "/static/media/Suryamani Kumar - Resume.4cdb58ac20e4c11b2061.pdf",
+    "static/media/Suryamani_Kumar_Resume_02-10-2023-23-55-55.pdf": "/static/media/Suryamani_Kumar_Resume_02-10-2023-23-55-55.1a9a3c93ad9d42fc651b.pdf",
     "static/media/doctor.png": "/static/media/doctor.870b4ab638d46d5a6e93.png",
     "index.html": "/index.html",
     "main.b984985a.css.map": "/static/css/main.b984985a.css.map",
-    "main.ab2cac3f.js.map": "/static/js/main.ab2cac3f.js.map",
+    "main.6c6e850b.js.map": "/static/js/main.6c6e850b.js.map",
     "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b984985a.css",
-    "static/js/main.ab2cac3f.js"
+    "static/js/main.6c6e850b.js"
   ]
 }
